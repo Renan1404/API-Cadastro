@@ -3,7 +3,7 @@
 
 Funcionamento:
 
-1º - Para executar o arquivo, vamos usar o comando "node src/index.js" no CMD ou no VSCode.
+1º - Primeiramente conectamos o projeto ao MongoDB. Para executar o projeto, vamos usar o comando "node src/index.js" no CMD ou no VSCode.
 
 2º - Pelo Insomnia, criamos a função GET (List) que vai mostrar a lista de filmes cadastrados pelo usuário. Na barra da navegação vamos colocar "http://localhost:3000/" e em seguida clicamos em "Send" para executar a aplicação.
 
