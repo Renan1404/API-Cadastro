@@ -9,6 +9,6 @@ Funcionamento:
 
 3º - Caso queira adicionar um filme, o usuário deve ir na opção POST (Create), responder todos os campos e clicar em "Send".
 
-4º - Caso queira deletar, DEL + http://localhost:3000/ ID do filme e clicar em "Send" para fazer alteração.
+4º - Caso queira deletar, DEL + http://localhost:3000/ + ID do filme e clicar em "Send" para fazer alteração.
 
-5º - Caso queira mudar o nome, PUT + http://localhost:3000/ ID do filme e clicar em "Send" para fazer alteração.
+5º - Caso queira mudar o nome, PUT + http://localhost:3000/ + ID do filme e clicar em "Send" para fazer alteração.
